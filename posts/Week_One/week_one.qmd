@@ -1,0 +1,6 @@
+---
+title: "Blog"
+author: "Bailey Hanson"
+date: "2023-05-31"
+categories: [Week One]
+---
