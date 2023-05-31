@@ -1,8 +1,8 @@
 ---
-title: "Week One"
+title: "Week Two"
 author: "Bailey Hanson"
 date: "2023-05-31"
-categories: [Week One]
+categories: [Week Two]
 ---
 
 # Introduction
